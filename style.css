@@ -1,0 +1,586 @@
+#fluid {
+    background-color: #f1f4ffff;
+    height: 6720px;
+    max-width: 100vw;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+.col-md-3 {
+    height: 1130px;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+
+.col-md-3 img {
+    height: 140px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 33px;
+}
+
+.col-md-3 h4 {
+    margin-top: 22px;
+    font-size: 23px;
+}
+
+.col-md-3 p {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.svg-group {
+    margin-top: 12px;
+}
+
+.call-svg {
+    background-color: orange;
+    margin-left: 6px;
+    border-radius: 50%;
+    margin-left: 22px;
+    padding: 4px 4px;
+}
+
+.information {
+    height: 170px;
+    margin-top: 25px;
+    margin-left: 19px;
+    margin-right: 25px;
+}
+
+.information span {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.language {
+    margin-left: 25px;
+    height: 140px;
+    margin-right: 26px;
+}
+
+.skills {
+    margin-left: 26px;
+    margin-right: 26px;
+    height: 210px;
+}
+
+.extra-skills {
+    list-style: none;
+    margin-left: 29px;
+    height: 110px;
+}
+
+.bt {
+    margin-left: 28px;
+    width: 300px;
+}
+
+.col-lg-8 {
+    height: 500px;
+    margin-left: 20px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.col-lg-8 h1 {
+    font-size: 50px;
+    margin-top: 100px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    margin-left: 23px;
+    color: #3C3D37;
+}
+
+.col-lg-8 h2 {
+    font-size: 50px;
+    margin-top: 5px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    margin-left: 23px;
+    color: #3C3D37;
+}
+
+.col-lg-8 .col-lg-4 .img-type {
+    height: 635px;
+    position: relative;
+    bottom: 137px;
+    right: 120px;
+}
+
+.hr-me {
+    margin-left: 27px;
+    padding-left: 26px;
+    padding-right: 28px;
+}
+
+.services {
+    height: 700px;
+}
+
+.service-contain h4 {
+    font-size: 33px;
+    font-weight: 600;
+    color: #3C3D37;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.service-contain span {
+    text-align: center;
+
+}
+
+.services .col-lg-4 {
+    height: 230px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 34px;
+    width: 320px;
+    border-radius: 15px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.services .col-lg-4 h3 {
+    font-size: 21px;
+    margin-top: 23px;
+    color: #3C3D37;
+
+}
+
+.services .col-lg-4 p {
+    color: #949398ff;
+    font-size: 16px;
+}
+
+.services .bg-white {
+    margin-left: 23px;
+}
+
+.services.bg {
+    margin-bottom: 12px;
+}
+
+
+.services .bg-adver .btn {
+    margin-left: 80px;
+}
+
+.col-lg-1 {
+    background-color: #ffff;
+    margin-left: 61px;
+    position: fixed;
+    width: 75px;
+    right: 0%;
+    top: 0%;
+    height: 1330px;
+}
+
+.ul {
+    margin-top: 135px;
+    position: relative;
+    right: 23px;
+}
+
+#mysidebar .svg {
+    margin-top: 23px;
+    margin-left: 19px;
+}
+
+.col-lg-1 .nav-link {
+    padding: 9px;
+    height: 34px;
+    background-color: #f1f4ffff;
+    width: 39px;
+    border-radius: 50%;
+    margin-left: 7px;
+    margin-top: 25px;
+}
+
+.col-lg-1 .nav-link:hover {
+    background-color: orange;
+}
+
+.col-lg-1 .nav-link svg {
+    position: relative;
+    bottom: 7px;
+    margin-bottom: 51px;
+}
+
+
+.plans {
+    height: 700px;
+    margin-top: 42px;
+}
+
+.plans h4 {
+    font-size: 35px;
+    color: #3C3D37;
+}
+
+.plans .prices {
+    width: 296px;
+    margin-left: 27px;
+    border-radius: 10px;
+    background-color: #fff;
+    height: 630px;
+    border-radius: 13px;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    margin-top: 62px;
+}
+
+.plans .prices h4 {
+    padding-top: 45px;
+    font-weight: 600;
+    font-size: 29px;
+}
+
+.plans .prices h2 {
+    font-size: 35px;
+    margin-right: 17px;
+    margin-top: 16px;
+}
+
+.plans .prices h2 span {
+    font-size: 20px;
+    color: #3c3d3763;
+}
+
+.plans .prices .para {
+    color: #949398ff;
+    font-size: 16px;
+    margin-top: 9px;
+}
+
+.prices .ordn {
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 200px;
+    margin-left: 32px;
+}
+
+.order-now {
+    border: 2px solid saddlebrown;
+}
+
+.recommendation {
+    height: 500px;
+    margin-top: 103px;
+}
+
+.recommendation .col-md-4 {
+    background-color: #fff;
+    height: 375px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.recommendation .col-md-4 .nme {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 14px;
+}
+
+.recommendation .col-md-4 .pashion {
+    position: relative;
+    bottom: 37px;
+    font-weight: 400;
+    font-size: 17px;
+    left: 93px;
+    color: #b1b3b3ff;
+
+}
+
+.education {
+    height: 600px;
+    margin-top: 67px;
+}
+
+.education .row {
+    height: 270px;
+    background-color: #fff;
+    margin-top: 53px;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.education .row .school {
+    margin-top: 55px;
+    margin-left: 30px;
+    font-size: 21px;
+}
+
+.education .row .date {
+    margin-left: 32px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 22px;
+}
+
+.education .row .date span {
+    margin-left: 17px;
+    font-size: 13px;
+    padding-left: 9px;
+    font-weight: 400;
+    padding-right: 10px;
+}
+
+.education .row .certi {
+    margin-top: 55px;
+    font-size: 23px;
+}
+
+.education .row .certi-para {
+    margin-top: 20px;
+    font-size: 16px;
+    padding-left: 3px;
+    font-family: "Montserrat", sans-serif;
+    color: #4d554db0;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+.container img {
+    transition: transform .3s;
+    width: 270px;
+    height: 179px;
+    margin: 0 auto;
+}
+
+.container img:hover {
+    transform: scale(1.1);
+    position: relative;
+    z-index: 12;
+}
+
+
+
+.bloging .col-md-4 {
+    height: 338px;
+    width: 300px;
+    color: #101820;
+
+}
+
+
+
+@-webkit-keyframes bob-on-hover {
+    0% {
+        -webkit-transform: translateY(-8px);
+        transform: translateY(-8px);
+    }
+
+    50% {
+        -webkit-transform: translateY(-4px);
+        transform: translateY(-4px);
+    }
+
+    100% {
+        -webkit-transform: translateY(-8px);
+        transform: translateY(-8px);
+    }
+}
+
+@keyframes bob-on-hover {
+    0% {
+        -webkit-transform: translateY(-8px);
+        transform: translateY(-8px);
+    }
+
+    50% {
+        -webkit-transform: translateY(-4px);
+        transform: translateY(-4px);
+    }
+
+    100% {
+        -webkit-transform: translateY(-8px);
+        transform: translateY(-8px);
+    }
+}
+
+@-webkit-keyframes bob-on-hover-float {
+    100% {
+        -webkit-transform: translateY(-8px);
+        transform: translateY(-8px);
+    }
+}
+
+@keyframes bob-on-hover-float {
+    100% {
+        -webkit-transform: translateY(-8px);
+        transform: translateY(-8px);
+    }
+}
+
+.bob-on-hover {
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.bob-on-hover:hover,
+.bob-on-hover:focus,
+.bob-on-hover:active {
+    -webkit-animation-name: bob-on-hover-float, bob-on-hover;
+    animation-name: bob-on-hover-float, bob-on-hover;
+    -webkit-animation-duration: .3s, 1.5s;
+    animation-duration: .3s, 1.5s;
+    -webkit-animation-delay: 0s, .3s;
+    animation-delay: 0s, .3s;
+    -webkit-animation-timing-function: ease-out, ease-in-out;
+    animation-timing-function: ease-out, ease-in-out;
+    -webkit-animation-iteration-count: 1, infinite;
+    animation-iteration-count: 1, infinite;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    -webkit-animation-direction: normal, alternate;
+    animation-direction: normal, alternate;
+}
+
+.bloging .col-md-4 img {
+    height: 145px;
+    margin-top: 12px;
+    margin-left: 24px;
+    width: 242px;
+
+}
+
+.bloging .col-md-4 h3 {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-right: 21px;
+
+    font-weight: 600;
+}
+
+.contact-content {
+    margin-top: 45px;
+}
+
+.contact-content h4 {
+    font-size: 27px;
+    color: #5c5958;
+}
+
+.contact-us .col-md-7 {
+    height: 500px;
+    border-radius: 12px;
+    padding-top: 31px;
+    padding-left: 12px;
+    margin-top: 23px;
+    padding-right: 12px;
+    margin-left: 0px;
+}
+
+.contact-us .col-md-7 .form-label {
+    margin-bottom: .5rem;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.footer {
+    height: 122px;
+
+}
+
+
+@media only screen and (max-width: 1200px) {
+    #fluid {
+        background: #f1f4ffff;
+        height: 8699px;
+    }
+
+    .contact-content h4 {
+        display: none;
+    }
+
+    .contact-us {
+        margin-top: 580px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .services .col-lg-4{
+        width: 300px;
+        margin-left: 12px;
+    }
+
+    .workin-section {
+        margin-top: 206px;
+
+    }
+    .education .row .school{
+        font-size: 18px;
+    }
+
+    .certi-para {
+        display: none;
+        font-size: 12px;
+    }
+
+    .education .row .date {
+        font-size: 12px;
+    }
+
+    .education .row .certi {
+        font-size: 16px;
+    }
+
+    .contact-us h4 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .slidebar {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .call-svg {
+        height: 35px;
+        width: 35px;
+    }
+
+    .recommendation .col-md-4 {
+        margin-top: 17px;
+    }
+
+    .work {
+        margin-top: 23px;
+
+    }
+    .education .row{
+        width: 310px;
+    }
+
+    .contact-us .col-md-7 {
+        margin-top: 99px;
+    }
+
+    .contact-content h4 {
+        display: block;
+    }
+
+    .count {
+        margin-left: 1px;
+    }
+
+    .count p {
+        font-size: 17px;
+    }
+
+    .contact-content {
+        margin-top: 12px;
+    }
+
+    .footer .col-md-2 {
+        margin-left: 114px;
+    }
+
+}
