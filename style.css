@@ -580,7 +580,8 @@
     }
 
     .footer .col-md-2 {
-        margin-left: 114px;
+        padding:6px;
+        
     }
 
 }
