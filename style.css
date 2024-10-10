@@ -506,7 +506,8 @@
 @media only screen and (max-width: 992px) {
     .services .col-lg-4 {
         width: 300px;
-        margin-left: 12px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .workin-section {
@@ -540,6 +541,7 @@
     .slidebar {
         display: none;
     }
+
 }
 
 @media only screen and (max-width: 480px) {
@@ -552,6 +554,14 @@
         width: 344px;
         margin-top: 12px;
         margin-left: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .img-type {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .main .col-lg-7 {
@@ -564,8 +574,12 @@
     }
 
     .services .col-md-4 {
-        margin-left: 0px;
-        margin-right: 0px;
+        /* margin-left: 0px;
+        margin-right: 0px; */
+    }
+    .plans .col-md-4 {
+        margin-left: auto;
+        margin-right: auto;
     }
 
 
