@@ -571,6 +571,7 @@
 
     .recommendation .col-md-4 {
         margin-top: 17px;
+        margin-left: 14px;
     }
 
 
@@ -581,7 +582,7 @@
     }
 
     .education {
-        margin-left: -21px;
+        margin-left: -6px;
     }
 
     .education .row {
