@@ -87,6 +87,7 @@
 }
 
 @keyframes fadeSlideUp {
+    0% { opacity: 0; transform: translateY(20px); }
     100% { opacity: 1; transform: translateY(0); }
 }
 
@@ -602,11 +603,7 @@
         font-size: 44px;
         margin-top: 30px;
     }
-
-    .services .col-md-4 {
-        /* margin-left: 0px;
-        margin-right: 0px; */
-    }
+    
     .plans .prices {
         margin-left: 24px;
         margin-right: auto;
